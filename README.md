@@ -1,6 +1,6 @@
 # Bigram을 활용한 연어 학습 프로그램
 
-## 단어장 학습 어플 디자인
+<h2> 단어장 학습 어플 디자인 </h2>
 <a>https://www.figma.com/design/RJUVsOzDOj33UpYwPyYpdC/Untitled?node-id=21-2&t=A4Fc0BGLwGOkPuSM-1</a>
 
 <h3>1. 주제 및 선정 동기</h3>
